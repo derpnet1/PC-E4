@@ -1,0 +1,8 @@
+El sistema operativo es: Linux
+Los puertos abiertos en Local host son: 
+La IP es: 192.168.0.21
+Buscando...
+This IP: 192.168.0.1 is up.
+23 open
+80 open
+443 open
